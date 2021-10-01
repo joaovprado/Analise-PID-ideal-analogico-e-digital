@@ -1,10 +1,10 @@
 Nesta pasta está contemplado o modelo de PID analógico. 
-Para sua confecção foram utilizados Amplificadores Operacionais em quatro prinicpai configurações: 
+Para sua confecção foram utilizados Amplificadores Operacionais em quatro principais configurações: 
  - Somador, para somar os termos PID do controlador;
  - Subtrator, para achar o erro entre o setpoint e a saída da planta;
- - Diferencial, para calcular o termo D do contorlador;
- - Integrador, para calcular o termo I do contorlador;
- - Proporcional, para calcular o termo P do contorlador.
+ - Diferencial, para calcular o termo D do controlador;
+ - Integrador, para calcular o termo I do controlador;
+ - Proporcional, para calcular o termo P do controlador.
  
  
 A topologia escolhida foi do PID paralelo, obtendo dessa forma o circuito abaixo:
