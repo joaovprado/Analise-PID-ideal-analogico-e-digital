@@ -10,7 +10,11 @@ Os desenvolvedores do projeto são:
 - Luciano Silva do Nascimento
 - Rafael Maurelli 
 
-		
+As atividade previstas, podem ser representadas no diagrama abaixo:
+
+![EAP projeto integrador III PID](https://user-images.githubusercontent.com/48776982/135700923-546a1280-ef7e-4bc2-a57a-274bf0008fe3.png)
+
+
 Para organização e alinhamento, será seguido o cronograma com esquema semanal, como pode ser visto abaixo:
 ![image](https://user-images.githubusercontent.com/48776982/132596671-f5fd753c-b394-4595-9b0a-ae66f2175775.png)
 
