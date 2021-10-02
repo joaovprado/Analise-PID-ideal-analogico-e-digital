@@ -9,6 +9,7 @@ Ilustrando, teremos o circuito abaixo:
 
 
 Com o programa em Python e em diagrama de blocos, conseguimos prever qual a saída ideal para esse circuito mostrado com degrau unitário na entrada. O gráfico obtido foi esse:
+
 ![gráfico](https://user-images.githubusercontent.com/48776982/135700836-b2cde048-cf9e-49ba-b8d7-696b054bd1b9.png)
 
 Pode-se notar que a curva que está na cor preta é bem difícil de se notar, pois está bem próxima do degrau, tendo uma acomodação muito rápida.
