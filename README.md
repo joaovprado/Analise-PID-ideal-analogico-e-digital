@@ -12,7 +12,7 @@ Os desenvolvedores do projeto são:
 
 As atividade previstas, podem ser representadas no diagrama abaixo:
 
-![EAP projeto integrador III PID](https://user-images.githubusercontent.com/48776982/135700923-546a1280-ef7e-4bc2-a57a-274bf0008fe3.png)
+![EAP projeto integrador III PID (1)](https://user-images.githubusercontent.com/48776982/135701003-7de17360-c9b4-435f-a483-e9c76cda139e.png)
 
 
 Para organização e alinhamento, será seguido o cronograma com esquema semanal, como pode ser visto abaixo:
